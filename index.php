@@ -34,110 +34,50 @@
       <div class="row">
               <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                   <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
-                    data-image="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                    data-image="img/gallery/Picture1.png"
                     data-target="#image-gallery">
                       <img class="img-thumbnail"
-                          src="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                          src="img/gallery/Picture1.png"
                           alt="Another alt text">
                   </a>
               </div>
               <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                   <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
-                    data-image="https://images.pexels.com/photos/158971/pexels-photo-158971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                    data-image="img/gallery/Picture2.png"
                     data-target="#image-gallery">
                       <img class="img-thumbnail"
-                          src="https://images.pexels.com/photos/158971/pexels-photo-158971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                          src="img/gallery/Picture2.png"
                           alt="Another alt text">
                   </a>
               </div>
 
               <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                   <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title=""
-                    data-image="https://images.pexels.com/photos/305070/pexels-photo-305070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                    data-image="img/gallery/Picture3.png"
                     data-target="#image-gallery">
                       <img class="img-thumbnail"
-                          src="https://images.pexels.com/photos/305070/pexels-photo-305070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                          src="img/gallery/Picture3.png"
                           alt="Another alt text">
                   </a>
               </div>
               <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                   <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Test1"
-                    data-image="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                    data-image="img/gallery/Picture4.png"
                     data-target="#image-gallery">
                       <img class="img-thumbnail"
-                          src="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                          src="img/gallery/Picture4.png"
                           alt="Another alt text">
                   </a>
               </div>
               <div class="col-lg-3 col-md-4 col-xs-6 thumb">
                   <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
-                    data-image="https://images.pexels.com/photos/158971/pexels-photo-158971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                    data-image="img/gallery/Picture5.png"
                     data-target="#image-gallery">
                       <img class="img-thumbnail"
-                          src="https://images.pexels.com/photos/158971/pexels-photo-158971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+                          src="img/gallery/Picture5.png"
                           alt="Another alt text">
                   </a>
-              </div>
-
-
-
-              <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                  <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
-                    data-image="https://images.pexels.com/photos/305070/pexels-photo-305070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                    data-target="#image-gallery">
-                      <img class="img-thumbnail"
-                          src="https://images.pexels.com/photos/305070/pexels-photo-305070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                          alt="Another alt text">
-                  </a>
-              </div>
-              <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                  <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
-                    data-image="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                    data-target="#image-gallery">
-                      <img class="img-thumbnail"
-                          src="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                          alt="Another alt text">
-                  </a>
-              </div>
-              <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                  <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
-                    data-image="https://images.pexels.com/photos/158971/pexels-photo-158971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                    data-target="#image-gallery">
-                      <img class="img-thumbnail"
-                          src="https://images.pexels.com/photos/158971/pexels-photo-158971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                          alt="Another alt text">
-                  </a>
-              </div>
-
-
-
-              <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                  <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
-                    data-image="https://images.pexels.com/photos/305070/pexels-photo-305070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                    data-target="#image-gallery">
-                      <img class="img-thumbnail"
-                          src="https://images.pexels.com/photos/305070/pexels-photo-305070.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                          alt="Another alt text">
-                  </a>
-              </div>
-              <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                  <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
-                    data-image="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                    data-target="#image-gallery">
-                      <img class="img-thumbnail"
-                          src="https://images.pexels.com/photos/853168/pexels-photo-853168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                          alt="Another alt text">
-                  </a>
-              </div>
-              <div class="col-lg-3 col-md-4 col-xs-6 thumb">
-                  <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="Im so nice"
-                    data-image="https://images.pexels.com/photos/158971/pexels-photo-158971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                    data-target="#image-gallery">
-                      <img class="img-thumbnail"
-                          src="https://images.pexels.com/photos/158971/pexels-photo-158971.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-                          alt="Another alt text">
-                  </a>
-              </div>
+              </div>              
           </div>
 
 
@@ -254,6 +194,9 @@
   
   <!-- pastMissions -->
   <div class="work">
+  <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase gallery-title">Past Missions</h2>              
+          </div>
   <div class="category-buttons">
     <a href="#" class="active all" data-group="all">All</a>
     <a href="#" data-group="existing-beds">Existing beds</a>
@@ -278,7 +221,10 @@
   </div>
 </div>
   <!-- endPastMissions -->
-  
+  <div class="container">
+    <p class="text-muted pastmissiondescrip">In 2018, one of our committee members Mr Joe Emeagi (consultant obstetrician and gynaecologist) took a visit to Nigeria to identify frontline priorities. He came to find health centres in Ugiri, Nigeria in unspeakable conditions and degradation such as witnessing women delivering babies on the floor.  Witnessing this, he knew that a change had to be made. </p>
+    <p class="text-muted pastmissiondescrip">As soon as Mr Joe Emeagi came back to London, he made awareness to the Ugiri union about the things he saw and the action that he wanted Ugiri union to make. Being a committee member and holding medical qualifications, Mr Joe Emeagi and other members of the committee made efforts to work collaboratively with existing healthcare personnel and services to access hospital beds. However, to buy hospital beds for mothers and babies a large sum of money had to be raised. In 2019, Ugiri union held a Gala night for all proceeds to be made towards buying hospital beds. It was a huge success as we raised (insert sum raised here). </p>
+  </div>
   <!-- About Us -->
   <section class="page-section" id="services">
     <div class="container">

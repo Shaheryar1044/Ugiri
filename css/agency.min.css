@@ -205,8 +205,8 @@ background-color: white;
   cursor: pointer;
 }
 .work .category-buttons a.active {
-  color: #373B3D;
-  border: 1px solid #373B3D;
+  color: #fed136;
+  border: 1px solid #fed136;
 }
 .work .grid {
   margin-top: 40px;
@@ -277,6 +277,7 @@ background-color: white;
 .work .card .title {
   padding: 10px;
   color: #2b2b2b;
+  text-align: center;
 }
 .work .guide {
   width: 32%;
@@ -294,4 +295,12 @@ background-color: white;
   .work .guide {
     width: 100%;
   }
+}
+
+.pastmissiondescrip {
+  text-align: center;
+}
+
+.what-we-do-list li {
+  text-align: left;
 }
