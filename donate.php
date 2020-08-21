@@ -27,7 +27,7 @@
       <div class="row text-center">
         <div class="col-md-4" style="min-width: fit-content; padding-top: 4%;">
           <p class="text-muted">Please help us to help the families in Ugiri. We want to ensure that all women have basic facilities such as a maternity bed and weighing scales available at the time of birth. Any donation you make, no matter how small, will be appreciated immensely. Thank you</p>
-          <a href="https://www.wateraid.org/uk/donate/donate-today?gclsrc=aw.ds&&gclid=Cj0KCQjw7Nj5BRCZARIsABwxDKK8xCBXrZvpJDCHPPFJpjO9e86H6nm52v9k-V7Nwv5Nmj4TxCrIpkAaAm9XEALw_wcB&gclsrc=aw.ds#webform-submission-donation-form-wateraid-add-form" target="_blank"><img src="img/donate/Picture1.png" class="img-fluid" alt="Responsive image"></a>
+          <a href="https://www.justgiving.com/campaign/UCS" class="img-fluid" alt="Responsive image"></a>
         </div>
         <div class="col-md-4" style="min-width: fit-content; padding-top: 4%;">
           <p class="text-muted">Your donation will help to ensure that Baby and Paediatric Cots like the example shown in the image below are available across all 12 healthcare centres in Ugiri</p>
